@@ -9,6 +9,7 @@ add line from A branch
 add line from A branch
 add line from B branch
 add line from B branch
+add line from B branch
 
 
 ## LICENSE
