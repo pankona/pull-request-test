@@ -11,8 +11,6 @@ add line from B branch
 add line from B branch
 add line from B branch
 
-
 ## LICENSE
 
 MIT
-
